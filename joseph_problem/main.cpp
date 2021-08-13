@@ -36,4 +36,5 @@ int main(){
             p=(p+1)%m;
         }
     }
+    return 0;
 }
